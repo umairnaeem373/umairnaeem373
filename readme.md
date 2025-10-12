@@ -35,6 +35,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umairnaeem373&" alt="umairnaeem373" /></p>
 
-<img src="https://raw.githubusercontent.com/umairnaeem373/umairnaeem373/output/snake.svg" alt="Snake animation" />
-
-###
+<img src="https://raw.githubusercontent.com/umairnaeem373/umairnaeem373/output/snake.svg" alt="Snake animation"/>
